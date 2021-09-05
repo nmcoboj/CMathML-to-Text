@@ -18,7 +18,7 @@ The output in English would be the following:
 
 And finally, the output in Portuguese would be the following:
 
-![Screenshot](Portugues.png)
+![Screenshot](Portuges.png)
 
 
 
