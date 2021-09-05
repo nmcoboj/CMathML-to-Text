@@ -1,0 +1,83 @@
+[constantes]
+infinity = infinite
+imaginaryi = I
+integers = set of integers
+emptyset = empty set
+real = set of reals
+
+[operadores]
+#Constructors
+list = list of $VAR$
+vector = the vector composed of $VAR$
+set = the set of all $VAR$ that meet that $bvar$ let $condition$, the set of $VAR$
+imaginary = imaginary operation $VAR$
+
+#Relaciones
+eq = $VAR$ is equal to $VAR$
+neq = $VAR$ not equal to $VAR$
+gt = $VAR$ is greather-than  $VAR$
+geq = $VAR$ is greather-than or equal to $VAR$
+lt = $VAR$ is less-than $VAR$
+leq = $VAR$ is less-than or equal to $VAR$
+equivalent = $VAR$ is equivalent to $VAR$/ho/home/julinho/Dropbox/Tese 22-03-2018/CMathml2Text/ejemplo6.htmlme/julinho/Dropbox/Tese 22-03-2018/CMathml2Text/ejemplo6.html
+approx = $VAR$ is approximate to $VAR$
+factorof = $VAR$ divide to $VAR$
+
+#Basic Operators
+plus = $VAR$ plus $VAR$
+minus = $VAR$ minus $VAR$, minus $VAR$
+times = $VAR$ times $VAR$
+divide = $VAR$ divided $VAR$
+power = $VAR$ raised to $VAR$
+exp = e raised to  $VAR$
+root = root $degree$ of $VAR$
+
+#Calculo
+sum = the sum of $bvar$ that goes from $lowlimit$ to $uplimit$ of $VAR$
+product = the product of $bvar$ that goes from $lowlimit$ to $uplimit$ of $VAR$
+limit = the limit of $bvar$ when it tends to $lowlimit$ of $VAR$
+int = the integral of $bvar$ that goes from $lowlimit$ to $uplimit$ of $VAR$
+
+#Operadores logicos
+not = $VAR$ not
+and = $VAR$ and $VAR$
+or = $VAR$ or $VAR$
+implies = $VAR$ implies $VAR$
+
+#Conjuntos
+in = $VAR$ in $VAR$
+notin = $VAR$ notin $VAR$
+intersect = $VAR$ intersect $VAR$
+union = $VAR$ union $VAR$
+setdiff = $VAR$ setdiff $VAR$
+prsubset = $VAR$ prsubset $VAR$
+
+#Funciones conocidas
+function = $VAR$ function $VAR$
+inverse = $VAR$ inverse
+max = max $VAR$
+determinant = determinant $VAR$
+gcd = eatest common factor between $VAR$ and $VAR$
+lcm = least common multiple between  $VAR$ and $VAR$
+factorial = $VAR$ factorial
+ln = natural logarithm of $VAR$
+log = logarithm $base$ of $VAR$
+sin = sine of $VAR$
+arcsin = arcsine of $VAR$
+cos = cosine of $VAR$
+arccos = arccosine of $VAR$
+tan = tangent of $VAR$
+arctan = arc tangent of $VAR$
+sinh = hyperbolic sine of $VAR$
+arcsinh = hyperbolic arcsine of $VAR$
+cosh = hyperbolic cosine of  $VAR$
+arccosh = hyperbolic arccosine of $VAR$
+tanh = hyperbolic tangent of $VAR$
+arctanh = hyperbolic arc tangent of $VAR$
+sech = hyperbolic secant of $VAR$
+arcsech = hyperbolic arcosecant of $VAR$
+csch = hyperbolic cosecant of $VAR$
+arccsch = hyperbolic arcosecant of $VAR$
+coth = hyperbolic cotangent of $VAR$
+arccoth = hyperbolic arc tangent of $VAR$
+cot = cotangent of $VAR$

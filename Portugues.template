@@ -1,0 +1,83 @@
+[constantes]
+infinity = infinito
+imaginaryi = I
+integers = conjunto de números inteiros
+emptyset = conjunto vacio
+real = conjunto real
+
+[operadores]
+#Constructores
+list = a lista de $VAR$
+vector = o vetor composto por $VAR$
+set = o conjunto de todos $VAR$ que encontram isso $bvar$ ser $condition$, o conjunto de $VAR$
+imaginary = Operacion imaginaria $VAR$
+
+#Relaciones
+eq = $VAR$ é igual a $VAR$
+neq = $VAR$ não é igual a $VAR$
+gt = $VAR$ é maior que $VAR$
+geq = $VAR$ é maior ou igual a $VAR$
+lt = $VAR$ é menor que $VAR$
+leq = $VAR$ é menor ou igual a $VAR$
+equivalent = $VAR$ é equivalente a $VAR$/ho/home/julinho/Dropbox/Tese 22-03-2018/CMathml2Text/ejemplo6.htmlme/julinho/Dropbox/Tese 22-03-2018/CMathml2Text/ejemplo6.html
+approx = $VAR$ é aproximado para $VAR$
+factorof = $VAR$ dividido em $VAR$
+
+#Operadores basicos
+plus = $VAR$ mais $VAR$
+minus = $VAR$ menos $VAR$, menos $VAR$
+times = $VAR$ por $VAR$
+divide = $VAR$ dividido $VAR$
+power = $VAR$ elevado ao  $VAR$
+exp = e elevado ao $VAR$
+root = raiz $degree$ de $VAR$
+
+#Calculo
+sum = a soma de $bvar$ que vai de $lowlimit$ a $uplimit$ de $VAR$
+product = la productoria de $bvar$ que va desde $lowlimit$ hasta $uplimit$ de $VAR$
+limit = o limite de $bvar$ que tende a $lowlimit$ de $VAR$
+int = a integral de $bvar$ que vai de $lowlimit$ a $uplimit$ de $VAR$
+
+#Operadores logicos
+not = $VAR$ negado
+and = $VAR$ e $VAR$
+or = $VAR$ ou $VAR$
+implies = $VAR$ implica $VAR$
+
+#Conjuntos
+in = $VAR$ en $VAR$
+notin = $VAR$ no esta en $VAR$
+intersect = $VAR$ intersectado con el conjunto $VAR$
+union = $VAR$ union $VAR$
+setdiff = $VAR$ menos el conjunto $VAR$
+prsubset = $VAR$ es subconjunto de $VAR$
+
+#Funciones conocidas
+function = $VAR$ função $VAR$
+inverse = $VAR$ inverso $VAR$
+max = máximo entre $VAR$
+determinant = determinante de $VAR$
+gcd = divisor comum máximo entre $VAR$ e $VAR$
+lcm = mínimo comum multiplicar entre $VAR$ e $VAR$
+factorial = $VAR$ fatorial
+ln = logaritmo natural de $VAR$
+log = logaritmo $base$ de $VAR$
+sin = seno de $VAR$
+arcsin = arcoseno de $VAR$
+cos = cosseno de $VAR$
+arccos = arcocoseno de $VAR$
+tan = tangente de $VAR$
+arctan = arcotangente de $VAR$
+sinh = seno hiperbolico de $VAR$
+arcsinh = arcoseno hiperbolico de $VAR$
+cosh = cosseno hiperbolico de $VAR$
+arccosh = arcocosseno hiperbolico de $VAR$
+tanh = tangente hiperbolica de $VAR$
+arctanh = arcotangente hiperbolica de $VAR$
+sech = secante hiperbolica de $VAR$
+arcsech = arcosecante hiperbolica de $VAR$
+csch = cosecante hiperbolica de $VAR$
+arccsch = arcocosecante hiperbolica de $VAR$
+coth = cotangente hiperbolica de $VAR$
+arccoth = arcotangente hiperbolica de $VAR$
+cot = cotangente de $VAR$
